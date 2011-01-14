@@ -1,7 +1,7 @@
 GIT
-  remote: /Users/robertdingwell/projects/pophealth/quality-measure-engine
-  revision: ee9a20b2209d29ff21af5f7ba5b9b01f7b079037
-  branch: dev
+  remote: http://github.com/rdingwell/quality-measure-engine.git
+  revision: 75cee0723140d27f9abe2bd37e7347253b96f7f9
+  branch: measure_refactor
   specs:
     quality-measure-engine (0.1.2)
       bson_ext

@@ -1,7 +1,7 @@
 GIT
-  remote: /Users/robertdingwell/projects/pophealth/quality-measure-engine
-  revision: f357d2fa183bf75cc8d2b670e8bbc63cbdfd526a
-  branch: develop
+  remote: http://github.com/rdingwell/quality-measure-engine.git
+  revision: 58e88dc1dada95746156e960611760e5b66910aa
+  branch: measure_refactor
   specs:
     quality-measure-engine (0.1.2)
       bson_ext
@@ -126,6 +126,7 @@ DEPENDENCIES
   jeweler
   jsonschema
   metric_fu
+  nokogiri
   quality-measure-engine!
   rspec
   rubyzip

@@ -1,6 +1,7 @@
 source :gemcutter
 
-gem 'quality-measure-engine', :git => 'http://github.com/rdingwell/quality-measure-engine.git', :branch => 'measure_refactor'
+gem 'quality-measure-engine', :git => '/Users/robertdingwell/projects/pophealth/quality-measure-engine', :branch => 'develop'
+gem 'rubyzip'
 
 group :test do
   gem 'rspec'
